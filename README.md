@@ -1,4 +1,5 @@
 🧠 Description du projet
+
 Ce projet vise à entraîner et monitorer un modèle de machine learning simple à partir de différents batchs de données sur la sécurité routière. L'objectif principal est de mettre en œuvre les bonnes pratiques MLOps pour garantir un développement structuré, reproductible et maintenable du pipeline de machine learning.
 
 Plusieurs aspects clés sont abordés dans ce projet :

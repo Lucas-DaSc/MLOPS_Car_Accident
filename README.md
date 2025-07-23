@@ -10,7 +10,7 @@ mlops_car_accident/
 │   ├── features/
 │   ├── models/
 │   └── monitoring/
-├── main.py              # Fichier principale
+├── main.py                 # Fichier principale
 ├── extract_data.py         # Extraction données
 ├── requirements.txt        # Dépendances Python
 └── README.md               # Description du projet
